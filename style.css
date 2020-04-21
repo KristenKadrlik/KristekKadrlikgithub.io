@@ -15,3 +15,8 @@ body
 {
     background-color: papayawhip;
 }
+
+div
+{
+    border: 2px Solid salmon
+}
