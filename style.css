@@ -18,5 +18,42 @@ body
 
 div
 {
-    border: 2px Solid salmon
+    border: 1px;
+    border-style: solid;
+    border-radius: 10px;
+    background-color: peachpuff;
+    border-color: salmon;
+    box-shadow: -5px 5px 0px 2px salmon; 
+}
+img
+{
+    border: 1px solid crimson;
+    border-radius: 5px;
+    box-shadow: -2px 2px 0px 1px crimson;
+}
+
+p
+{
+    color: crimson;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
+}
+
+ul
+{
+    color: crimson;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
+
+}
+
+ol
+{
+    color: crimson;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
+
+}
+
+body
+{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
+
 }
