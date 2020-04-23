@@ -13,7 +13,7 @@ font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
 
 body
 {
-    background-color: plum;
+    background-color:lavender;
 }
 
 div
@@ -21,7 +21,7 @@ div
     border: 1px;
     border-style: solid;
     border-radius: 10px;
-    background-color: lavender;
+    background-color: plum;
     border-color: darkviolet;
     box-shadow: -5px 5px 0px 2px darkviolet; 
 }
