@@ -1,19 +1,19 @@
 h1
 {
-    color: crimson;
+    color: darkviolet;
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif
 }
 
 
 h2 
 {
-color: indianred; 
+color: darkviolet; 
 font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
 }
 
 body
 {
-    background-color: papayawhip;
+    background-color: plum;
 }
 
 div
@@ -21,33 +21,33 @@ div
     border: 1px;
     border-style: solid;
     border-radius: 10px;
-    background-color: peachpuff;
-    border-color: salmon;
-    box-shadow: -5px 5px 0px 2px salmon; 
+    background-color: lavender;
+    border-color: darkviolet;
+    box-shadow: -5px 5px 0px 2px darkviolet; 
 }
 img
 {
-    border: 1px solid crimson;
+    border: 1px solid darkviolet;
     border-radius: 5px;
-    box-shadow: -2px 2px 0px 1px crimson;
+    box-shadow: -2px 2px 0px 1px darkviolet;
 }
 
 p
 {
-    color: crimson;
+    color: darkviolet;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
 }
 
 ul
 {
-    color: crimson;
+    color: darkviolet;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
 
 }
 
 ol
 {
-    color: crimson;
+    color: darkviolet;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
 
 }
