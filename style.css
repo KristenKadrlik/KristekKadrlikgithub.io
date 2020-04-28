@@ -1,7 +1,8 @@
 h1
 {
     color: darkviolet;
-    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    margin-left: 200px;
 }
 
 
@@ -9,6 +10,9 @@ h2
 {
 color: darkviolet; 
 font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+padding: 10px;
+margin: 0px;
+
 }
 
 body
@@ -23,37 +27,47 @@ div
     border-radius: 10px;
     background-color: plum;
     border-color: darkviolet;
-    box-shadow: -5px 5px 0px 2px darkviolet; 
+    box-shadow: -5px 5px 0px 2px darkviolet;
+    margin-bottom: 30px;
 }
 img
 {
     border: 1px solid darkviolet;
     border-radius: 5px;
     box-shadow: -2px 2px 0px 1px darkviolet;
+    margin: 5px;
 }
 
 p
 {
     color: darkviolet;
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    padding: 10px;
+    margin: 10px;
 }
 
 ul
 {
     color: darkviolet;
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    padding: 10px;
+    margin: 11px;
 
 }
 
 ol
 {
     color: darkviolet;
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    padding: 10px;
+    margin: 17px;
 
 }
 
 body
 {
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    padding: 10px;
+    margin: 5px;
 
 }
