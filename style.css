@@ -2,7 +2,7 @@ h1
 {
     color: darkviolet;
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
-    margin-left: 500px;
+    margin-left: 700px;
 }
 
 
@@ -71,5 +71,11 @@ body
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     padding: 10px;
     margin: 5px;
+
+}
+
+#secretpuzzle{
+
+color: blueviolet
 
 }
