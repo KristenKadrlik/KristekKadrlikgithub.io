@@ -50,7 +50,7 @@ p
 ul
 {
     color: darkviolet;
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-family: Arial, Helvetica, sans-serif;
     padding: 10px;
     margin: 11px;
 
@@ -59,7 +59,7 @@ ul
 ol
 {
     color: darkviolet;
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-family: Arial, Helvetica, sans-serif;
     padding: 10px;
     margin: 17px;
 
@@ -75,7 +75,7 @@ body
 
 #secretpuzzle{
 
-font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif+
+font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
 
 }
 
@@ -127,5 +127,8 @@ font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida San
 #thoughtsbox{
     box-shadow: -2px 2px 1px 4px darkviolet;
 
+}
 
+.movietitle{
+font-style: italic;
 }
